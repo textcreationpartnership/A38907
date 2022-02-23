@@ -1,0 +1,1010 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact catalogue of the names of several ministers lately ejected out of their livings in several counties of England because they could not conform for conscience sake.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38907</idno>
+            <idno type="STC">Wing E3629A</idno>
+            <idno type="STC">ESTC R36396</idno>
+            <idno type="EEBO-CITATION">15687044</idno>
+            <idno type="OCLC">ocm 15687044</idno>
+            <idno type="VID">104369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact catalogue of the names of several ministers lately ejected out of their livings in several counties of England because they could not conform for conscience sake.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCLXIII [1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History.</term>
+               <term>Church of England --  Clergy.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104369:1" rendition="simple:additions"/>
+            <p>AN EXACT CATALOGUE OF THE NAMES OF SEVERAL MINISTERS Lately Ejected out of their LIVINGS IN SEVERAL COUNTIES OF <hi>ENGLAND,</hi> Becauſe they could not Conform for Conſcience ſake.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_ministers">
+            <pb facs="tcp:104369:2"/>
+            <pb n="1" facs="tcp:104369:2" rendition="simple:additions"/>
+            <head>AN EXACT CATALOGUE OF THE NAMES OF THE Ejected Miniſters.</head>
+            <list>
+               <item>MR. Roode</item>
+               <item>Mr. Manton</item>
+               <item>Mr. Caſe</item>
+               <item>Doctor Bates</item>
+               <item>Doctor Jacomb</item>
+               <item>Mr. Gibbons</item>
+               <item>Mr. Jackſon</item>
+               <item>Mr. Jackſon</item>
+               <item>Mr. Dawkes</item>
+               <item>Mr. Hutton.</item>
+               <item>Mr. Stretwel</item>
+               <item>Mr. Poole</item>
+               <item>Mr. After</item>
+               <item>Mr. Sharpe</item>
+               <item>Mr. Cook</item>
+               <item>Mr. Blackmore</item>
+               <item>Mr. Church</item>
+               <item>Mr. Woodcock.</item>
+               <item>Mr. Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um</item>
+               <item>Doctor Spurſtow</item>
+               <item>Mr. Bull</item>
+               <item>Mr. Whitaker</item>
+               <item>Mr. Tary.</item>
+               <item>Mr. Cooper</item>
+               <item>Mr. Smith</item>
+               <item>Mr. Cradicot</item>
+               <item>Mr. Symonds</item>
+               <item>Mr. Humfreies</item>
+               <item>Mr. Ley</item>
+               <item>Doctor Wilkinſon</item>
+               <item>
+                  <pb n="2" facs="tcp:104369:3"/>Mr. Aſh</item>
+               <item>Doctor Drake</item>
+               <item>Mr. Douglu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>Mr. Slaughter</item>
+               <item>Mr. Kentiſh</item>
+               <item>Mr. Malory</item>
+               <item>Mr. Caryl</item>
+               <item>Mr. Barker</item>
+               <item>Mr. B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooks</item>
+               <item>Mr. Bruic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Mr. Wilts</item>
+               <item>Mr. Wats.</item>
+               <item>Mr. Witham</item>
+               <item>Mr. Cockin</item>
+               <item>Mr. Wickins</item>
+               <item>Mr. Bridges</item>
+               <item>Mr. Doelittle</item>
+               <item>Mr. Nedler</item>
+               <item>Mr. Adams</item>
+               <item>Mr. Hur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Doctor Anſley</item>
+               <item>Mr. Rawlingſon</item>
+               <item>Mr. Gouge</item>
+               <item>Mr. Venning</item>
+               <item>Mr. Bragge</item>
+               <item>Mr. Jenkins</item>
+               <item>Mr. Nolton</item>
+               <item>Mr. Aderley</item>
+               <item>Mr. Peirce</item>
+               <item>Mr. Hariland</item>
+               <item>Mr. King</item>
+               <item>Mr. Loe</item>
+               <item>Mr. Looder</item>
+               <item>Mr. Sheifeild</item>
+               <item>Mr. Totnal</item>
+               <item>Mr. Jeſſe</item>
+               <item>Mr. Crofton</item>
+               <item>Mr. Vincks</item>
+               <item>Mr. Smith</item>
+               <item>Mr. Clark</item>
+               <item>Mr. Seaman</item>
+               <item>Mr. Johnſon</item>
+               <item>Mr. Greenhil</item>
+               <item>Mr. Lockier</item>
+               <item>Mr. Spinage</item>
+               <item>Mr. Beerman</item>
+               <item>Mr. Palmer</item>
+               <item>Mr. Wadſworth</item>
+               <item>Mr. Hopkins</item>
+               <item>Mr. Vincent</item>
+               <item>Mr. Roe</item>
+               <item>Mr. Wood</item>
+               <item>Mr. Foſter</item>
+               <item>Mr. Grunman</item>
+               <item>Mr. Hill</item>
+               <item>Mr. White</item>
+               <item>Mr. Batchelour</item>
+               <item>Mr. Griffith</item>
+               <item>Mr. Brumhal</item>
+               <item>Mr. Pledger</item>
+               <item>Mr. Collins</item>
+               <item>Mr. Helmes</item>
+               <item>Mr. Par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons</item>
+               <item>Mr. Clarheſon</item>
+               <item>Doctor Homes</item>
+               <item>Mr. Baxter</item>
+               <item>Mr. Leigh</item>
+               <item>Mr. Meede</item>
+               <item>Mr. Moore</item>
+               <item>Mr. Calamy</item>
+               <item>Mr. Benton</item>
+               <item>Mr. Arnal</item>
+               <item>Mr. Fowler</item>
+               <item>Mr. Ford</item>
+               <item>Mr. Ennis</item>
+               <item>Mr. Thomes</item>
+               <item>Mr. Tilliſon</item>
+               <item>Mr. May</item>
+               <item>Mr. Wally</item>
+               <item>Mr. Cob</item>
+               <item>Mr. Dier</item>
+               <item>Mr. Stowr</item>
+               <item>Mr. Goſnell</item>
+               <item>Mr. Watſon</item>
+               <item>Mr. Yates</item>
+            </list>
+            <list>
+               <pb n="3" facs="tcp:104369:3"/>
+               <head>ESSEX.</head>
+               <item>MR. Abbot of Slanſtead</item>
+               <item>Mr. Chadſley of Upper-Yeldham</item>
+               <item>Mr. Wells of Hornchurch</item>
+               <item>Mr. Clifford of Queadon</item>
+               <item>Mr. Peepys of Arkſden.</item>
+               <item>Mr. Bearſly of Wickham St. Pauls</item>
+               <item>Mr. Fitch of Shelly</item>
+               <item>Mr. Grandage of Birbrook</item>
+               <item>Mr. Crigge of Figg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ingo</item>
+               <item>Mr. Hovel of Wicklow</item>
+               <item>Mr. Lax of Boxtead.</item>
+               <item>Mr. Barker of Thalſterd</item>
+               <item>Mr. Sims of Steeple Bun<g ref="char:EOLhyphen"/>ſtead</item>
+               <item>Mr. Willet of Chiſhull</item>
+               <item>Mr. Wilſon of Elſham</item>
+               <item>Mr. Hill of one of the Roe<g ref="char:EOLhyphen"/>dings</item>
+               <item>Mr. Anderton of Low-Lay<g ref="char:EOLhyphen"/>ton</item>
+               <item>Mr. Hauks of Upminſter</item>
+               <item>Mr. Clerke of Cone-eger</item>
+               <item>Mr. Eſday of Pentlow</item>
+               <item>Mr. Davis of Geſtingford</item>
+               <item>Mr. Mocket of Gilſon</item>
+               <item>Mr. Milner of Lawford</item>
+               <item>Mr. Hubboard of Oakely</item>
+               <item>Mr Candler of Bromly</item>
+               <item>Mr. Dowell of W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Mr. Warren of Colche<g ref="char:EOLhyphen"/>ſter</item>
+               <item>Mr. Stoeden of Colche<g ref="char:EOLhyphen"/>ſter</item>
+               <item>Mr. Newcomen of Ded<g ref="char:EOLhyphen"/>ham.</item>
+               <item>Mr. Smith of Ded<g ref="char:EOLhyphen"/>ham.</item>
+               <item>Mr. Carre of B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xted</item>
+               <item>Mr. Hampſon of Locford</item>
+               <item>Mr. Tomſon of Cockford</item>
+               <item>Mr. Rand of Markſtay</item>
+               <item>Mr. Greene of Tay-Ran<g ref="char:EOLhyphen"/>field</item>
+               <item>Mr. Perchas of Weighbo<g ref="char:EOLhyphen"/>rough</item>
+               <item>Mr. Dod of Inworth</item>
+               <item>Mr. Conſtable of Feering</item>
+               <item>Mr. Billeway of Wickam</item>
+               <item>Mr. Lile of Rivenall</item>
+               <item>Mr. Sammes of Cogges-hall</item>
+               <item>Mr. Joſelin of Cone</item>
+               <item>Mr. Sparrow of Haſted</item>
+               <item>Mr. Blackly of Pedmarſh</item>
+               <item>Mr. Havers of Stanly-Stan<g ref="char:EOLhyphen"/>band</item>
+               <item>Mr. Glover of Finchfield</item>
+               <item>Mr. Cole of Wethersfield</item>
+               <item>Mr. Ely of Henham</item>
+               <item>Mr. Brinſly of Alphanſton</item>
+               <item>Mr. Clarke of Gainesclue</item>
+               <item>Mr. Bigley of Whitecorne</item>
+               <item>Mr Berd of Much-Bently</item>
+               <item>
+                  <pb n="4" facs="tcp:104369:4" rendition="simple:additions"/>Mr. Horrex of Malden</item>
+               <item>Mr. Auger of Brantry</item>
+               <item>Mr. Clark of Stiſtead</item>
+               <item>Mr. Smith of Caſtle-Hin<g ref="char:EOLhyphen"/>ningham</item>
+               <item>Mr. Overerd of Topsfield</item>
+               <item>Mr. Moore of Clavering</item>
+               <item>Mr. Benſon of Leaſe</item>
+               <item>Mr. Harriſon of Waltom</item>
+               <item>Mr. Renud of Felſted</item>
+               <item>Mr. Holbredge of High-Eſten</item>
+               <item>Mr. Warren of Hatfield</item>
+               <item>Mr. Stolhelme of Terling</item>
+               <item>Mr. Okes of Boreham</item>
+               <item>Mr. Gilſon of Little-Bad<g ref="char:EOLhyphen"/>dow</item>
+               <item>Mr. Rag of Much-Baddow</item>
+               <item>Mr. Clapton of Ramſden</item>
+               <item>Mr. Man of Danbury</item>
+               <item>Mr <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of Shoobury</item>
+               <item>Mr. Boole of Hadley in Hundreds</item>
+               <item>Mr. Scot of Gent-Wackerim</item>
+               <item>Mr. Church of Hackwell</item>
+               <item>Mr. Caly of Railie</item>
+               <item>Mr. Pecke of Prittlewell</item>
+               <item>Mr. Clapton of Recondon</item>
+               <item>Mr. Smith of Sandon, <hi>dead</hi>
+               </item>
+               <item>Mr. Carnal of Hanvill, <hi>dead.</hi>
+               </item>
+               <item>Mr. Willſon of Takely</item>
+               <item>Mr. Bantolph of Steb<g ref="char:EOLhyphen"/>bin</item>
+               <item>Mr. Angel of Steb<g ref="char:EOLhyphen"/>bin</item>
+               <item>Mr. Fiſher of Aſleton</item>
+               <item>Mr. Sechfield of Eſtwood</item>
+               <item>Mr. Malden of Stow</item>
+               <item>Mr. Green of Weſt-Hamvil</item>
+               <item>Mr. Hubberd of Norton</item>
+               <item>Mr. Denſly of Walterbel<g ref="char:EOLhyphen"/>ſham</item>
+               <item>Mr. Hills of Paſewicke</item>
+               <item>Mr. Harvey of Childerdick</item>
+               <item>Mr. Yarly of Cranham</item>
+               <item>Mr. Rathband of Burnt<g ref="char:EOLhyphen"/>wood-weale</item>
+               <item>Mr. Powel of Little-Warlee</item>
+               <item>Mr. Way of Barkin</item>
+               <item>Mr. Firman of Shawford</item>
+               <item>Mr. Beadle of Banſon</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhberry</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> that married</item>
+               <item>Mr. Glovers Daughter.</item>
+               <item>Mr. Calendrine of Staple<g ref="char:EOLhyphen"/>ford-Abbot</item>
+               <item>Mr. Larkin of Chipping-Onger</item>
+               <item>Mr. Lavender of High-On<g ref="char:EOLhyphen"/>ger</item>
+               <item>Mr. Calamy of Morten</item>
+               <item>Mr. Borfet of High-Laver</item>
+               <item>Mr. Harvey of Maudling-Laver</item>
+               <item>Mr. Whiſton of Little-Laver</item>
+               <item>Mr. Ferres of Norton</item>
+               <item>Mr. Chandler of Cooper<g ref="char:EOLhyphen"/>ſale</item>
+               <item>Mr. Baſticke of Parondon<g ref="char:EOLhyphen"/>magna</item>
+               <item>Mr. Willis of Ingerſtone</item>
+               <item>Mr. Wray of Ridgewell, <hi>very poor</hi>
+               </item>
+               <item>Mr. Brand of White-Rood<g ref="char:EOLhyphen"/>ing</item>
+               <item>Mr. Brown of Naſing</item>
+               <item>Mr. Farnworth of Hockley</item>
+            </list>
+            <list>
+               <pb n="5" facs="tcp:104369:4"/>
+               <head>Out of Sequeſtred Livings.</head>
+               <item>MR. Simpſon of Stock</item>
+               <item>Mr. Mott of Chelmes<g ref="char:EOLhyphen"/>ford</item>
+               <item>Mr. Reeve of Springfield</item>
+               <item>Mr. Sanford of White-Rooding</item>
+               <item>Mr. Ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghtly of Neer Lon<g ref="char:EOLhyphen"/>don</item>
+               <item>Mr. Bound of Shenvill</item>
+               <item>Mr. Greene of Runwell</item>
+               <item>Mr. Ludgutter of Witham, <hi>dead.</hi>
+               </item>
+               <item>Mr. Ward of Stapleford-Tawny</item>
+               <item>Mr. Buckly of Fordam</item>
+               <item>Mr. Hoare of Wonſtead</item>
+               <item>Mr. Sparrowhawke of Notly</item>
+               <item>Mr. Harper of Epping</item>
+               <item>Mr. Elliſton of Stanver-Rivers</item>
+               <item>Mr. Barnaby of South-Okendon</item>
+               <item>Doctor Robotham of Up<g ref="char:EOLhyphen"/>minſter</item>
+               <item>Doctor Wells of Thoydon-Mount</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of Little-Hollynbury</item>
+               <item>Mr. Wood of Abbas-Rood<g ref="char:EOLhyphen"/>ing</item>
+            </list>
+            <list>
+               <item>MR. Bound of Shenfield</item>
+               <item>Samuel Smith of Sanden</item>
+               <item>Mark Mott of Chelmesford</item>
+               <item>Mr. Bulkley of Fordham</item>
+               <item>Mr. Griggs of Langenhoe</item>
+               <item>Thomas Ludgate of Wi<g ref="char:EOLhyphen"/>tham</item>
+               <item>Mr. Elliſton of Stanford-Rivers.</item>
+               <item>Mr. Sparrowhawk of Black-Noteley</item>
+               <item>Mr. Jenkins of Inworth</item>
+               <item>Mr. Suikas of Samfield</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of Birdbrook</item>
+            </list>
+            <list>
+               <head>Miniſters Ejected in the ſame County upon the Act.</head>
+               <item>GEorge Smith of Ded<g ref="char:EOLhyphen"/>ham</item>
+               <item>M. Newcomen of Ded<g ref="char:EOLhyphen"/>ham</item>
+               <item>John Overed of Toppis<g ref="char:EOLhyphen"/>field</item>
+               <item>
+                  <pb n="6" facs="tcp:104369:5"/>Mr. Warren of Colche<g ref="char:EOLunhyphen"/>ſter</item>
+               <item>Mr. Stogton of Colche<g ref="char:EOLunhyphen"/>ſter</item>
+               <item>Thomas Horiacks of Mal<g ref="char:EOLhyphen"/>don</item>
+               <item>Will. Sparrow of Halſted</item>
+               <item>James Parkin of Thackſted</item>
+               <item>Mr. Cole of Wether<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>field</item>
+               <item>John Argur of Braintree</item>
+               <item>John Sammes of Cogges<g ref="char:EOLhyphen"/>hall</item>
+               <item>Mr. Reely of Henham</item>
+               <item>John Willys of Ingate-ſtone</item>
+               <item>George Wilſon of Elſenham</item>
+               <item>Mr. Carre of Boxted</item>
+               <item>Mr. Tompſon of Copford</item>
+               <item>John Bedle of Banſon</item>
+               <item>Martin Holbeach of High-Eaſtern</item>
+               <item>
+                  <hi>Mr.</hi> Milner of Lawford</item>
+               <item>
+                  <hi>Mr.</hi> Candler of Bromeley</item>
+               <item>
+                  <hi>Mr.</hi> Rathband of Weale</item>
+               <item>
+                  <hi>Mr.</hi> Benſon of Little-Leighs</item>
+               <item>John Hubbard of Okely</item>
+               <item>John Lavender of High-Ongar</item>
+               <item>John Harriſon of Little-Waltham</item>
+               <item>John Stalham of Terling</item>
+               <item>Hugh Glover of Finching<g ref="char:EOLhyphen"/>field</item>
+               <item>Giles Firmin of Shaford</item>
+               <item>
+                  <hi>Mr.</hi> Sims of Steeple Dump<g ref="char:EOLhyphen"/>ſted</item>
+               <item>Tho. Ellis of Hempſted</item>
+               <item>Nathaniel Ranew of Felt<g ref="char:EOLhyphen"/>ſted</item>
+               <item>John Clark of Coln-Engain</item>
+               <item>Ralph Joſſeline of Earle-Coln</item>
+               <item>John Chadſley of Upper-Yeldham</item>
+               <item>George Liſle of Kirenhall</item>
+               <item>Thomas Seck of Trittlewell</item>
+               <item>Abraham Caley of Rayleigh</item>
+               <item>Joſiah Church of Sea-Church</item>
+               <item>Chriſtopher Scot of Much-Waking</item>
+               <item>John Warren of Hatfield-Broddock</item>
+               <item>Chriſtopher Wragg of Much-Baddow</item>
+               <item>Tho. Gilſon of Little-Bad<g ref="char:EOLhyphen"/>dow</item>
+               <item>
+                  <hi>Mr.</hi> Blakely of Pedmerſh.</item>
+               <item>
+                  <hi>Mr.</hi> Hills of Paſwick</item>
+               <item>
+                  <hi>Mr.</hi> Havers of Stamborn</item>
+               <item>
+                  <hi>Mr.</hi> Oakes of Boreham</item>
+               <item>
+                  <hi>Mr.</hi> Clapton of Rettenden</item>
+               <item>
+                  <hi>Mr.</hi> Bantoft of Stebbing</item>
+               <item>
+                  <hi>Mr.</hi> Crow of Hunden</item>
+               <item>
+                  <hi>Mr.</hi> Billio of Biſhops-Wick<g ref="char:EOLhyphen"/>ham</item>
+               <item>
+                  <hi>Mr.</hi> Rand of Marks-Tey</item>
+               <item>
+                  <hi>Mr.</hi> Clark of Styfted</item>
+            </list>
+            <list>
+               <pb n="7" facs="tcp:104369:5"/>
+               <head>Miniſters Ejected out of the County of <hi>Surry.</hi>
+               </head>
+               <item>
+                  <hi>Mr.</hi> Rayner of Egham</item>
+               <item>
+                  <hi>Mr.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich. Byſeild of Long-D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</item>
+               <item>
+                  <hi>Mr.</hi> David Anderſon of Walton</item>
+               <item>
+                  <hi>Mr.</hi> John Jackſon of Mole<g ref="char:EOLhyphen"/>ſea</item>
+               <item>
+                  <hi>Mr.</hi> Rich. P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>barts of Coleſ<g ref="char:EOLhyphen"/>downe</item>
+               <item>Doctor Arthur of Clapham</item>
+               <item>
+                  <hi>Mr.</hi> King of Aſtead</item>
+               <item>
+                  <hi>Mr.</hi> Caryl of Eaſt-Horſly</item>
+               <item>
+                  <hi>Mr.</hi> Rich. Mayo of Kingſton upon Thames</item>
+               <item>
+                  <hi>Mr.</hi> Rawlinſon of Lambeth</item>
+               <item>
+                  <hi>Mr.</hi> Crad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cott of Mary Overy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Cooper of Tooleys</item>
+               <item>
+                  <hi>Mr.</hi> Whittaker of Bermond<g ref="char:EOLhyphen"/>ſey</item>
+               <item>
+                  <hi>Mr.</hi> Beerman of Thomas Pariſh in Southwarke</item>
+               <item>
+                  <hi>Mr.</hi> Balhoe of Evel</item>
+               <item>
+                  <hi>Mr.</hi> Scudamore of Byflet</item>
+               <item>
+                  <hi>Mr.</hi> Wickham of Purbry</item>
+               <item>
+                  <hi>Mr.</hi> Nowel of Ockley</item>
+               <item>
+                  <hi>Mr.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of Eaſt-Horſley</item>
+            </list>
+            <list>
+               <head>Miniſters outed in <hi>Hertfordſhire,</hi> Auguſt 24. 1662. on <hi>Hertford</hi> ſide of the County.</head>
+               <item>MR. Burwel of Hertford</item>
+               <item>
+                  <hi>Mr.</hi> Graves of Mun<g ref="char:EOLhyphen"/>den</item>
+               <item>
+                  <hi>Mr.</hi> Peathy of Paulſwalden</item>
+               <item>
+                  <hi>Mr.</hi> Cater of Gravely</item>
+               <item>
+                  <hi>Mr.</hi> Pain of Stortford</item>
+               <item>
+                  <hi>Mr.</hi> Crow of Aſhwel</item>
+               <item>
+                  <hi>Mr.</hi> Gardiner of Cotterel</item>
+               <item>
+                  <hi>Mr.</hi> Genoway of Kelſy</item>
+               <item>
+                  <hi>Mr.</hi> Tenant of Tharfield</item>
+               <item>Qu. <hi>Mr.</hi> Godwin of Eaſt<g ref="char:EOLhyphen"/>wick</item>
+               <item>
+                  <hi>Mr.</hi> Sherwyn Lecturer at Baldock</item>
+               <item>
+                  <hi>Mr.</hi> King of Abbots-Lang<g ref="char:EOLhyphen"/>ley</item>
+               <item>
+                  <hi>Mr.</hi> Loaves of Shenley</item>
+               <item>
+                  <hi>Mr.</hi> Partridge of Abbey at St. Albans</item>
+               <item>
+                  <hi>Mr.</hi> Ward of Buſhy</item>
+               <item>
+                  <hi>Mr.</hi> Tutty of Totteridge</item>
+               <item>
+                  <hi>Mr.</hi> Goodwyn of Watford</item>
+               <item>
+                  <hi>Mr.</hi> Iſaac Beford of Willian</item>
+               <item>
+                  <hi>Mr.</hi> Young of Ware</item>
+               <item>
+                  <pb n="8" facs="tcp:104369:6"/>
+                  <hi>Mr.</hi> Stallebraſe of Eaſen<g ref="char:EOLhyphen"/>den</item>
+               <item>Doctor Hix of Horting<g ref="char:EOLhyphen"/>fordbury</item>
+               <item>
+                  <hi>Mr.</hi> Owen of Branfield:</item>
+               <item>
+                  <hi>Which three have ſince con<g ref="char:EOLhyphen"/>formed, and are now in places</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Mocket of Gilſton.</item>
+               <item>
+                  <hi>Mr.</hi> Warren of Thorly</item>
+               <item>
+                  <hi>Mr.</hi> Sherwyn of Wallington</item>
+               <item>
+                  <hi>Mr.</hi> Halſy at Broxborn, ſince at Amwell</item>
+               <item>
+                  <hi>Mr.</hi> Skingle of Little-Had<g ref="char:EOLhyphen"/>dam</item>
+               <item>
+                  <hi>Mr.</hi> Thornton of Whe<g ref="char:EOLhyphen"/>thainſted; ſince placed in Suſſex, and conforms</item>
+               <item>
+                  <hi>Mr.</hi> Eles of Harſpenden</item>
+               <item>
+                  <hi>Mr.</hi> Wilſon of Kimpton</item>
+               <item>
+                  <hi>Mr.</hi> Ball of Barlee</item>
+               <item>
+                  <hi>Mr.</hi> Shaw of Barnet.</item>
+            </list>
+            <list>
+               <head>Miniſters Ejected in the County of <hi>Wilts.</hi>
+               </head>
+               <item>DOctor Chambers of Pewſey</item>
+               <item>
+                  <hi>Mr.</hi> Sangor of Steepleaſley</item>
+               <item>
+                  <hi>Mr.</hi> Well of Yal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbury</item>
+               <item>
+                  <hi>Mr.</hi> Harding of Melſham</item>
+               <item>
+                  <hi>Mr.</hi> Fip of Tevant</item>
+               <item>
+                  <hi>Mr.</hi> Eyres of Sarum</item>
+               <item>
+                  <hi>Mr.</hi> Strickland of Sarum</item>
+               <item>
+                  <hi>Mr.</hi> Prebb of Ogbourne</item>
+               <item>
+                  <hi>Mr.</hi> Gowen of Malmesbury</item>
+               <item>
+                  <hi>Mr.</hi> Maſſey of Palney</item>
+               <item>
+                  <hi>Mr.</hi> Burges of Collingbourn</item>
+               <item>
+                  <hi>Mr.</hi> Hounſell of Chilton</item>
+               <item>
+                  <hi>Mr.</hi> Rowſwell of Sutton</item>
+               <item>
+                  <hi>Mr.</hi> South of Barwick</item>
+               <item>
+                  <hi>Mr.</hi> Hewes of Marlburrough</item>
+               <item>
+                  <hi>Mr.</hi> Swafeild of Odſtoake</item>
+               <item>
+                  <hi>Mr.</hi> Hubbert of Mounton</item>
+            </list>
+            <list>
+               <head>Miniſters Ejected upon — in the County of <hi>Wilts.</hi>
+               </head>
+               <item>MR. Hunton of Wesbury</item>
+               <item>
+                  <hi>Mr.</hi> Ens of Donhead</item>
+               <item>
+                  <hi>Mr.</hi> Francklin of Broomham</item>
+               <item>
+                  <hi>Mr.</hi> Wats of N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wton<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oney</item>
+               <item>
+                  <hi>Mr.</hi> Rotrey of Milſon.</item>
+               <item>
+                  <hi>Mr</hi> Crump of Bramble</item>
+               <item>
+                  <hi>Mr.</hi> Barcroft of Broughton</item>
+               <item>Mr. Paſey of Biſhops-throw</item>
+               <item>Mr. Wells of Alton</item>
+               <item>Mr. Chancey of Wodburrow</item>
+               <item>Mr. Spinedge of Poulſhot</item>
+               <item>Mr. White of Savington</item>
+               <item>Mr. Troughton of Sarum</item>
+               <item>Dr. Harding of Brinkworth</item>
+               <item>Mr. Taylor of Burbech</item>
+               <item>Mr. Pearne of Boxe</item>
+            </list>
+            <list>
+               <pb n="9" facs="tcp:104369:6"/>
+               <head>Miniſters Outed in the County of <hi>Devon.</hi>
+               </head>
+               <item>Mr. ACkland</item>
+               <item>Mr. Aſhwood</item>
+               <item>Mr. Atkins</item>
+               <item>Mr. Bally</item>
+               <item>Mr. Bange</item>
+               <item>Mr. Bartlet</item>
+               <item>Mr. Bartlet</item>
+               <item>Mr. Bartlet</item>
+               <item>Mr. Berry</item>
+               <item>Mr. Berry</item>
+               <item>Mr. Bickly</item>
+               <item>Mr. Byfeild</item>
+               <item>Mr. Binm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore</item>
+               <item>Mr. Bawden</item>
+               <item>Mr. Bowden</item>
+               <item>Mr. Bowden William</item>
+               <item>Mr. Bowden</item>
+               <item>Mr. Bridgman</item>
+               <item>Mr. Bulhead</item>
+               <item>Mr. Boordwood</item>
+               <item>Mr. Burges</item>
+               <item>Mr. Browne</item>
+               <item>Mr. Bragg, <hi>ſince conformed as it is thought.</hi>
+               </item>
+               <item>Mr. Bubeare Jun.</item>
+               <item>Mr. Carrell</item>
+               <item>Mr. Carſlake</item>
+               <item>Mr. Channon</item>
+               <item>Mr. Chiſhull</item>
+               <item>Mr. Clare</item>
+               <item>Mr. Cleland</item>
+               <item>Mr. Clyde</item>
+               <item>Mr. Collins</item>
+               <item>Mr. Collins</item>
+               <item>Mr. Conant</item>
+               <item>Mr. Crompton William</item>
+               <item>Mr. Down</item>
+               <item>Mr. Down</item>
+               <item>Mr. Down</item>
+               <item>Mr. Durant</item>
+               <item>Mr. Elliot</item>
+               <item>Facy</item>
+               <item>Mr. Farrant</item>
+               <item>Mr. Finny</item>
+               <item>Mr. Flavell</item>
+               <item>Mr. Fownes</item>
+               <item>Mr. Ford</item>
+               <item>Mr. Forward</item>
+               <item>Mr. Godwin Uplmie.</item>
+               <item>Mr. Gale</item>
+               <item>Mr. Geare</item>
+               <item>Mr. Gillard</item>
+               <item>Mr. Grundall</item>
+               <item>Mr. Grove.</item>
+               <item>Mr. Hallet, <hi>a poor man</hi>
+               </item>
+               <item>Mr. Hanmer</item>
+               <item>Mr. Hatch</item>
+               <item>Mr. Heron</item>
+               <item>Mr. Herring</item>
+               <item>Mr. Herring</item>
+               <item>
+                  <pb n="10" facs="tcp:104369:7"/>Mr. Hodg</item>
+               <item>Mr. Horſham</item>
+               <item>Mr. Horſman</item>
+               <item>Mr. Howe</item>
+               <item>Mr. Hughes</item>
+               <item>Mr. Hunt, <hi>a poor man</hi>
+               </item>
+               <item>Mr. Hill</item>
+               <item>Mr. Hayward</item>
+               <item>Mr. Hard<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idg.</item>
+               <item>Mr. Hinde</item>
+               <item>Mr. Jacob</item>
+               <item>Mr. Jelliner</item>
+               <item>Mr. Jordan</item>
+               <item>Mr. Doctor Kendall</item>
+               <item>Mr. Kempſter</item>
+               <item>Mr. Knapman</item>
+               <item>Mr. Knight</item>
+               <item>Mr. Larkham</item>
+               <item>Mr. Lawe</item>
+               <item>Mr. Mall</item>
+               <item>Mr. Martin</item>
+               <item>Mr. Mainard</item>
+               <item>Mr. Mortymer</item>
+               <item>Mr. Mortymer</item>
+               <item>Mr. Mills.</item>
+               <item>Mr. Nicols</item>
+               <item>Mr. Noſworthy John</item>
+               <item>Mr. Osborn</item>
+               <item>Mr. Palke</item>
+               <item>Mr. Palmer</item>
+               <item>Mr. Parr</item>
+               <item>Mr. Pemberton</item>
+               <item>Mr. Pits</item>
+               <item>Mr. Polewheele</item>
+               <item>Mr. Powell</item>
+               <item>Mr. Prince.</item>
+               <item>Mr. Quick</item>
+               <item>Mr. Rowe</item>
+               <item>Mr. Rowe</item>
+               <item>Mr. Saunders</item>
+               <item>Mr. Saunders Richard</item>
+               <item>Mr. Searl</item>
+               <item>Mr. Syms John</item>
+               <item>Mr. Snow</item>
+               <item>Mr. Sourton</item>
+               <item>Mr. Stephens</item>
+               <item>Mr. Stuke</item>
+               <item>Mr. Stukely</item>
+               <item>Mr. Taylor, <hi>a poor man</hi>
+               </item>
+               <item>Mr. Taylor</item>
+               <item>Mr. Tickell</item>
+               <item>Mr. Tooker, <hi>a poor man</hi>
+               </item>
+               <item>Mr. Treſcott</item>
+               <item>Mr. Trevethick.</item>
+               <item>Mr. Waldron</item>
+               <item>Mr. Watſon</item>
+               <item>Mr. Welman</item>
+               <item>Mr. Whiddon</item>
+               <item>Mr. Williams</item>
+               <item>Mr. Wilkins</item>
+               <item>Mr. Woolcomb</item>
+               <item>Mr. Wyne.</item>
+               <item>Mr. Yeo</item>
+               <item>Mr. Yeo Bartholmew</item>
+               <item>Mr. Yeo of Ware.</item>
+            </list>
+            <list>
+               <pb n="11" facs="tcp:104369:7"/>
+               <head>In the County of <hi>Durham.</hi> Miniſters Outed ſince 1660. about their Title.</head>
+               <item>MR. Dixon of Kellow</item>
+               <item>Mr. Battersby of Haugh<g ref="char:EOLhyphen"/>ton-Le-Spring</item>
+               <item>Mr. Graves of Biſhop-War<g ref="char:EOLhyphen"/>mouth</item>
+               <item>Mr. Pleaſants of Bowden</item>
+               <item>Mr. Weld <hi>Sen.</hi> of Gateſide</item>
+               <item>Mr. Stott of Whitham</item>
+               <item>Mr. Weld <hi>Jun.</hi> of Riton</item>
+               <item>Mr. Pell of Eaſington</item>
+               <item>Mr. Buſhell of Eggleſcliffe</item>
+               <item>Mr. Hunton of Sedgfield</item>
+               <item>Mr. Bowey of Elwicke</item>
+               <item>Mr. Bickerton of Walſing<g ref="char:EOLhyphen"/>ham</item>
+               <item>Mr. Ke<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſh of Middleton</item>
+               <item>Mr. Bewick of Stanhope</item>
+            </list>
+            <list>
+               <head>Miniſters Outed for Non-conformity</head>
+               <item>MR. Batty of Jarrow</item>
+               <item>Mr. Peil of Stenton</item>
+               <item>Mr. Wilſon of Lomeſley</item>
+               <item>Mr. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckery of Lancheſter</item>
+               <item>Mr. Hutton of Whiton-Gil<g ref="char:EOLhyphen"/>bert</item>
+               <item>Mr. Deverex of Durrham</item>
+               <item>Mr. Kidd of Red-Marſhall</item>
+               <item>Mr. Kiplin of Cotam</item>
+               <item>Mr. Coates of Sadburg</item>
+               <item>Mr. Franklin of Biſhop-Aukland.</item>
+            </list>
+            <list>
+               <head>In the County of <hi>Northumberland.</hi> Miniſters Outed upon Title.</head>
+               <item>MR. Wickliffe of Whalton</item>
+               <item>Mr. Levor of Bolam</item>
+               <item>Mr. Ward of Harthorne</item>
+               <item>Mr. Darnten of Bedlington</item>
+               <item>Mr. Thompſon and his Aſſiſtant of Bet<g ref="char:EOLhyphen"/>tle.</item>
+               <item>Mr. More of Warkworth</item>
+               <item>Mr. Seaton of Felton</item>
+               <item>Mr. Hume of Whittingham</item>
+               <item>Mr. Lane and his Aſſiſtant of Long-Houghton.</item>
+               <item>Mr. Lomax of Wooler.</item>
+               <item>Mr. Bruce of Long Benton.</item>
+            </list>
+            <list>
+               <pb n="12" facs="tcp:104369:8"/>
+               <head>Miniſters Outed for Non-conformity.</head>
+               <item>MR. Bell of Pontiland</item>
+               <item>Mr Owens of Stanner<g ref="char:EOLhyphen"/>ton</item>
+               <item>Mr. Trurant of Ovingham</item>
+               <item>Mr. Tayler of Challeſton</item>
+               <item>Mr. Davies of Bywell</item>
+               <item>Mr. Goundon of Tinmouth</item>
+               <item>M. Henderſon of Earſden</item>
+               <item>Mr. Binloſſe of Midford</item>
+               <item>Mr. Rule of Alnwicke</item>
+               <item>Mr. Penigle of Eglingham</item>
+               <item>Mr. Bromefield of Elling<g ref="char:EOLhyphen"/>ham</item>
+               <item>Mr. Murrey of Ellingham</item>
+               <item>Mr. Aied of Ingram</item>
+               <item>Mr. E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>skine</item>
+               <item>Mr. Ogle of Barwick</item>
+               <item>Mr. Weeſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of Barwick;</item>
+               <item>
+                  <hi>With one or two more, whoſe names we know not.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In <hi>Newcaſtle.</hi>
+               </head>
+               <item>MR. Knightbride</item>
+               <item>Mr. Lever</item>
+               <item>Mr. Hammond</item>
+               <item>Mr. Prideaux</item>
+               <item>Mr. Durant.</item>
+            </list>
+            <list>
+               <head>In <hi>Weſtmerland</hi> Miniſters Outed upon Title</head>
+               <item>MR. Langhorne of Askam: Mr. Jackſon of Cresby on the Hill: Mr. Wallace of Eveſham.</item>
+            </list>
+            <list>
+               <head>Miniſters Outed for Non-conformity.</head>
+               <item>MR. Higgeſon of Kerby<g ref="char:EOLhyphen"/>ſteven.</item>
+               <item>Mr. Dodgſon of Ruſhen<g ref="char:EOLhyphen"/>dale</item>
+               <item>Mr. Roberts of Barton</item>
+               <item>Mr. Dalton of Shape</item>
+               <item>Mr. Greenewood of Hutten neere Kendall.</item>
+            </list>
+            <list>
+               <pb n="13" facs="tcp:104369:8"/>
+               <head>In <hi>Cumberland.</hi> Miniſters Out ſince 1660.</head>
+               <item>MR. Gilpin of Grayſtocke</item>
+               <item>Mr. Baldwin of Penriſh</item>
+               <item>Mr. Starre of Carliſle</item>
+               <item>Mr. Larkham of Cocker<g ref="char:EOLhyphen"/>mouth</item>
+               <item>Mr. B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſon of Bride-Kirke</item>
+               <item>Mr. Lane of Cro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in Keſ<g ref="char:EOLhyphen"/>wick Pariſh</item>
+               <item>Mr. Hopkins of Mellerby</item>
+               <item>Mr. Atkinſon of Lazonby</item>
+               <item>Mr. Broadly of Addingham</item>
+               <item>Mr, Forward of Bolton</item>
+               <item>Mr. John Jackſon of Hatton</item>
+               <item>Mr. Peter Jackſon of Sower<g ref="char:EOLhyphen"/>by</item>
+               <item>Mr. Yates of Ainſtable.</item>
+               <item>Mr. Carmitchell of Thur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by</item>
+               <item>Mr. Taylor of Eadnall</item>
+               <item>Mr. Saxton of Bonus</item>
+               <item>Mr. Cragge of New-Kirke</item>
+            </list>
+            <list>
+               <head>Miniſters Outed upon the Act.</head>
+               <item>MR. Rogers of Croglyn,</item>
+               <item>Mr. Barnard of Beaunton.</item>
+            </list>
+            <list>
+               <head>In <hi>Lancaſhire.</hi> Miniſters Outed upon the Act of Uniformity.</head>
+               <item>MR. Cole of Preſton</item>
+               <item>Mr. Tylleſley of Deane</item>
+               <item>Mr. Angier of Denton</item>
+               <item>Mr. Harriſon of Aſhton Underline</item>
+               <item>Mr. Yates of Warrington</item>
+               <item>Mr. Bell of Heighton</item>
+               <item>Mr. Fogge of Leverpoole</item>
+               <item>Mr. Hyat of Croſton</item>
+               <item>Mr. Weeds of Aſhton</item>
+               <item>Mr. Ambroſe of Gaſtange</item>
+               <item>Mr. L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tham of Standiſh</item>
+               <item>Mr. Eaton of Walton</item>
+               <item>Mr. Weight of Billing</item>
+               <item>Mr. Grey of St. Elling</item>
+               <item>Mr. Ambroſe of Darby</item>
+               <item>Mr. Madder of Burſten<g ref="char:EOLhyphen"/>wood</item>
+               <item>
+                  <pb n="14" facs="tcp:104369:9"/>Mr. Leigh of New-Church</item>
+               <item>Mr. Parke of Bolton</item>
+               <item>Mr. Goodwin of Bolton</item>
+               <item>Mr. Weeds of Chobent</item>
+               <item>M. Coborne of E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing<g ref="char:EOLhyphen"/>brooke</item>
+               <item>Mr. Pike of Ratcliffe-Tower</item>
+               <item>Mr. Aſhley of Blackron</item>
+               <item>Mr. Hotham of Wiggon</item>
+               <item>Mr. Harriſon of Low-Chappell</item>
+               <item>M. Jolley of Alton.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
